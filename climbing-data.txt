@@ -25,11 +25,11 @@ ref: Route List, http://www.skalnioblasti.cz/5_index.asp?cmd=6&sektor_id=213
 20150530, Český Ráj - Suché skály, Saxon
 ref: Route List, http://www.horosvaz.cz/skaly-sektor-32/
 ref: Route List, http://www.skalnioblasti.cz/5_index.asp?cmd=6&sektor_id=213
-, Vlajková věž - Jižní cesta přímo, VIIc, top rope, naťahal Zoban
+, Vlajková věž - Jižní cesta přímo, VIIc, flash/top rope, naťahal Zoban
 , Vlajková věž - Údolní komín, IV, on-sight, dá sa dobre odistiť
-, Vlajková věž - Frýdlantská, VI, top rope, naťahal Zoban
+, Vlajková věž - Frýdlantská, VI, flash/top rope, naťahal Zoban
 , Smrčinová věž - Komínová cesta, III, flash, radil Zoban; poriadny odlez hore
-, Smrčinová věž - Jihozápadní hrana, VIIb, top rope, naťahal Zoban
+, Smrčinová věž - Jihozápadní hrana, VIIb, flash/top rope, naťahal Zoban
 , Bílá věž - Sluneční cesta, VI, second, ťahal Lájoš
 
 20150524, Jevišovická pahorkatina - Baby - Veľká baba, UIAA
