@@ -100,11 +100,11 @@ Paličatá; Stratosféra; 4+; flash; druholezec; ťahal Michal Májsky
 Paličatá; Raketa; 4+; flash; druholezec; ťahal Michal Májsky
 Paličatá; Korsičan; 4+; flash; prvolezec;
 
-20150411; Vysočina; UIAA
+20150411; Vysočina - Drátnik; UIAA
 ref: Route List (Sokolí stěna); http://www.horosvaz.cz/skaly-skala-8880/
 ref: Route List (Šedá stěna); http://www.horosvaz.cz/skaly-skala-8947/
-Drátnik; Sokolí spára; 6+; all free; druholezec; ťahal Lájoš, s jedným odsadnutím
-Drátnik; Štrbina; 3+; on-sight; prvolezec;
+Sokolí stěna; Sokolí spára; 6+; all free; druholezec; ťahal Lájoš, s jedným odsadnutím
+Šedá stěna; Štrbina; 3+; on-sight; prvolezec;
 
 20150328; Rudice; UIAA
 ref: Route List; http://www.horosvaz.cz/skaly-skala-2526/
