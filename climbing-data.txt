@@ -58,7 +58,7 @@ Bonbonek; Antiperle; VI; flash; druholezec; ťahal Tom Vidlák
 Křeslo; Přes borovici; IV; flash; prvolezec; mysleli sme, že lezieme Křeslo pro hosta (VIIa), ale Martin vraví, že to bolo Přes borovici
 Ústecká; Stará cesta; V; flash; druholezec; ťahal Kubo
 
-20150505; Babí Lom; UIAA
+20150505; Brno - Babí Lom; UIAA
 ref: Route List; http://www.horosvaz.cz/skaly-skala-12337/
 Balkon; Soukač; 4+; on-sight; top rope;
 
@@ -68,7 +68,7 @@ Hrádok; Polnočná; 5; flash; druholezec; ťahal Plyš
 Hrádok; Stredná; 5+; on-sight; prvolezec;
 Hrádok; Fitfirit; 5+; flash; druholezec; ťahal Plyš
 
-20150429; Lom v Komíne; UIAA
+20150429; Brno - Lom v Komíne; UIAA
 ref: Guide; http://www.nadzemi.cz/data/uploadHTML/images/P1100687.JPG
 Hart; Komíňákům; 5; on-sight; prvolezec;
 Hart; Plotnou (varianta nástupu); 5+; on-sight; prvolezec;
@@ -87,7 +87,7 @@ Druhá plotna - Bezejmenná; Vánoční; 4; flash; top rope; ťahal Martin
 Druhá plotna - Bezejmenná; Bezejmenná; 3; flash; top rope; ťahal Kubo
 Druhá plotna - Bezejmenná; Plotnou; 5+; on-sight; prvolezec;
 
-20150414; Babí Lom; UIAA
+20150414; Brno - Babí Lom; UIAA
 ref: Route List; http://www.horosvaz.cz/skaly-skala-8109/
 Paraple; Varianta Kikina; 4+; on-sight; top rope;
 Paraple; Děvenka; 5-; on-sight; top rope;
@@ -106,7 +106,7 @@ ref: Route List (Šedá stěna); http://www.horosvaz.cz/skaly-skala-8947/
 Sokolí stěna; Sokolí spára; 6+; all free; druholezec; ťahal Lájoš, s jedným odsadnutím
 Šedá stěna; Štrbina; 3+; on-sight; prvolezec;
 
-20150328; Rudice; UIAA
+20150328; Moravský kras - Rudice; UIAA
 ref: Route List; http://www.horosvaz.cz/skaly-skala-2526/
 Slza a Podhradí; Pilíř; 3; on-sight; prvolezec;
 Slza a Podhradí; Cestářská; 3-; flash; top rope;
