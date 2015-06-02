@@ -65,8 +65,8 @@ Balkon; Soukač; 4+; on-sight; top rope;
 20150503; Vtáčnik; UIAA
 ref: Guide; http://www.goat.cz/Lezeni/Ostatni/_Guide/pdf/Hradok.pdf
 Hrádok; Polnočná; 5; flash; druholezec; ťahal Plyš
-Hrádok; Stredná; 5+; on-sight; prvolezec;
-Hrádok; Fitfirit; 5+; flash; druholezec; ťahal Plyš
+Hrádok; Stredná; 5+/5/4; on-sight; prvolezec;
+Hrádok; Fitfirit; 5-/5+/4; flash; druholezec; ťahal Plyš
 
 20150429; Brno - Lom v Komíne; UIAA
 ref: Guide; http://www.nadzemi.cz/data/uploadHTML/images/P1100687.JPG
