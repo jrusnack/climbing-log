@@ -1,119 +1,115 @@
 # Climbing log file
 # -----------------
 #
-# Every entry consists of a single header, any number of references, and at
+# Every entry consists of a single header; any number of references; and at
 # least one route.
 #
 # Header format:
-# - [date - YYYYMMDD],[climbing location],[grading system]
+# - [date - YYYYMMDD];[climbing location];[grading system]
 #
 # References format:
 # - line starts with "ref:"
-# - [anchor],[href]
+# - [anchor];[href]
 #
 #  Route format:
-# - [route number],[route name],[route grade],[ascend type],[notes]
+# - [route number];[route name];[route grade];[ascend type];[notes]
 
-20150531, Český Ráj - Suché skály, Saxon
-ref: Route List, http://www.horosvaz.cz/skaly-sektor-32/
-ref: Route List, http://www.skalnioblasti.cz/5_index.asp?cmd=6&sektor_id=213
-, Alabastrová věž - Levá západní spára, VI, second, ťahal Lájoš
-, Alabastrová věž - Jižní stěna, VI, second, ťahal Lájoš
-, Bílá věž - Šavle, VII, second, ťahal Lájoš
-, Bílá věž - Východní cesta, V, second, ťahal Lájoš
+20150531; Český Ráj - Suché skály; Saxon
+ref: Route List; http://www.horosvaz.cz/skaly-sektor-32/
+ref: Route List; http://www.skalnioblasti.cz/5_index.asp?cmd=6&sektor_id=213
+Alabastrová věž; Levá západní spára; VI; flash; druholezec; ťahal Lájoš
+Alabastrová věž; Jižní stěna; VI; flash; druholezec; ťahal Lájoš
+Bílá věž; Šavle; VII; flash; druholezec; ťahal Lájoš
+Bílá věž; Východní cesta; V; flash; druholezec; ťahal Lájoš
 
-20150530, Český Ráj - Suché skály, Saxon
-ref: Route List, http://www.horosvaz.cz/skaly-sektor-32/
-ref: Route List, http://www.skalnioblasti.cz/5_index.asp?cmd=6&sektor_id=213
-, Vlajková věž - Jižní cesta přímo, VIIc, flash/top rope, naťahal Zoban
-, Vlajková věž - Údolní komín, IV, on-sight, dá sa dobre odistiť
-, Vlajková věž - Frýdlantská, VI, flash/top rope, naťahal Zoban
-, Smrčinová věž - Komínová cesta, III, flash, radil Zoban; poriadny odlez hore
-, Smrčinová věž - Jihozápadní hrana, VIIb, flash/top rope, naťahal Zoban
-, Bílá věž - Sluneční cesta, VI, second, ťahal Lájoš
+20150530; Český Ráj - Suché skály; Saxon
+ref: Route List; http://www.horosvaz.cz/skaly-sektor-32/
+ref: Route List; http://www.skalnioblasti.cz/5_index.asp?cmd=6&sektor_id=213
+Vlajková věž; Jižní cesta přímo; VIIc; flash; top rope; naťahal Zoban
+Vlajková věž; Údolní komín; IV; on-sight; prvolezec; dá sa dobre odistiť
+Vlajková věž; Frýdlantská; VI; flash; top rope; naťahal Zoban
+Smrčinová věž; Komínová cesta; III; flash; prvolezec; radil Zoban, poriadny odlez hore
+Smrčinová věž; Jihozápadní hrana; VIIb; flash; top rope; naťahal Zoban
+Bílá věž; Sluneční cesta; VI; flash; druholezec; ťahal Lájoš
 
-20150524, Jevišovická pahorkatina - Baby - Veľká baba, UIAA
-ref: Route List, http://www.horosvaz.cz/skaly-skala-7638/
-16, Stromovka, 5, on-sight,
-7, Černý komín, 4, second, ťahal Kubo
+20150524; Jevišovická pahorkatina - Baby; UIAA
+ref: Route List; http://www.horosvaz.cz/skaly-skala-7638/
+Veľká baba; Stromovka; 5; on-sight; prvolezec;
+Veľká baba; Černý komín; 4; flash; druholezec; ťahal Kubo
 
-20150510, Křížový vrch - Jižní věže, Saxon
-ref: Route List, http://www.piskari.cz/cs/krizovy-vrch/jizni-veze-22/
-ref: Route List, http://www.piskari.cz/cs/krizovy-vrch/krizovy-hreben-23/
-, Čertova stěna - Stěna a hrana, VI, red point, Lájoš vopred zakladal istenie
-, Unavené kameny - Jihozáp. stěna, IV, red point, Lájoš vopred zakladal istenie
-, Křížový král - Jižní hrana - první varianta, VIIa, second, ťahal Lájoš
+20150510; Křížový vrch - Jižní věže; Saxon
+ref: Route List; http://www.piskari.cz/cs/krizovy-vrch/jizni-veze-22/
+ref: Route List; http://www.piskari.cz/cs/krizovy-vrch/krizovy-hreben-23/
+Čertova stěna; Stěna a hrana; VI; red point; prvolezec; Lájoš vopred zakladal istenie
+Unavené kameny; Jihozáp. stěna; IV; red point; prvolezec; Lájoš vopred zakladal istenie
+Křížový král; Jižní hrana - první varianta; VIIa; flash; druholezec; ťahal Lájoš
 
-20150509, Křížový vrch - Jižní věže, Saxon
-ref: Route List, http://www.piskari.cz/cs/krizovy-vrch/jizni-veze-22/
-, Pahorek - Hodinová mzda, III, second, ťahal Tom
-, Hodinář - Západní stěna, III, second, ťahal Tom
-, Kocour - Jižní hrana, VI, second, ťahal Tom
-, Pahorek - Raport, V, second, ťahal Tom
+20150509; Křížový vrch - Jižní věže; Saxon
+ref: Route List; http://www.piskari.cz/cs/krizovy-vrch/jizni-veze-22/
+Pahorek; Hodinová mzda; III; flash; druholezec; ťahal Tom
+Hodinář; Západní stěna; III; flash; druholezec; ťahal Tom
+Kocour; Jižní hrana; VI; flash; druholezec; ťahal Tom
+Pahorek; Raport; V; flash; druholezec; ťahal Tom
 
-20150508, Křížový vrch - Křížový hřeben, Saxon
-ref: Route List, http://www.piskari.cz/cs/krizovy-vrch/krizovy-hreben-23/
-, Zmrzlina - Stará cesta, III, second, ťahal Tom Vidlák
-, Bonbonek - Antiperle, VI, second, ťahal Tom Vidlák
-, Křeslo - Přes borovici, IV, flash, mysleli sme že lezieme Křeslo pro hosta (VIIa) ale Martin vraví že to bolo Přes borovici
-, Ústecká - Stará cesta, V, second, ťahal Kubo
+20150508; Křížový vrch - Křížový hřeben; Saxon
+ref: Route List; http://www.piskari.cz/cs/krizovy-vrch/krizovy-hreben-23/
+Zmrzlina; Stará cesta; III; flash; druholezec; ťahal Tom Vidlák
+Bonbonek; Antiperle; VI; flash; druholezec; ťahal Tom Vidlák
+Křeslo; Přes borovici; IV; flash; prvolezec; mysleli sme, že lezieme Křeslo pro hosta (VIIa), ale Martin vraví, že to bolo Přes borovici
+Ústecká; Stará cesta; V; flash; druholezec; ťahal Kubo
 
-20150505, Babí Lom - Balkon, UIAA
-ref: Route List, http://www.horosvaz.cz/skaly-skala-12337/
-15, Soukač, 4+, on-sight/top rope,
+20150505; Babí Lom; UIAA
+ref: Route List; http://www.horosvaz.cz/skaly-skala-12337/
+Balkon; Soukač; 4+; on-sight; top rope;
 
-20150503, Vtáčnik - Hrádok, UIAA
-ref: Guide, http://www.goat.cz/Lezeni/Ostatni/_Guide/pdf/Hradok.pdf
-57, Polnočná, 5, second, ťahal Plyš
-40, Stredná, 5+, on-sight,
-41, Fitfirit, 5+, second, ťahal Plyš
+20150503; Vtáčnik; UIAA
+ref: Guide; http://www.goat.cz/Lezeni/Ostatni/_Guide/pdf/Hradok.pdf
+Hrádok; Polnočná; 5; flash; druholezec; ťahal Plyš
+Hrádok; Stredná; 5+; on-sight; prvolezec;
+Hrádok; Fitfirit; 5+; flash; druholezec; ťahal Plyš
 
-20150429, Lom v Komíne - Hart, UIAA
-ref: Guide, http://www.nadzemi.cz/data/uploadHTML/images/P1100687.JPG
-5, Komíňákům, 5, on-sight,
-4a, Plotnou (varianta nástupu), 5+, on-sight,
-12, Varianta spárkou, 6+, flash, videl som od Michala ako skúšal
+20150429; Lom v Komíne; UIAA
+ref: Guide; http://www.nadzemi.cz/data/uploadHTML/images/P1100687.JPG
+Hart; Komíňákům; 5; on-sight; prvolezec;
+Hart; Plotnou (varianta nástupu); 5+; on-sight; prvolezec;
+Hart; Varianta spárkou; 6+; flash; prvolezec; videl som od Michala ako skúšal
 
-20150419, Helfštýn - První plotna - Okno, UIAA
-ref: Route Info, http://www.goat.cz/Lezeni/Olomoucko/_Guide/pdf/Helfstyn1.pdf
-ref: Route List, http://www.horosvaz.cz/skaly-skala-6391/
-6, Diretissima, 3+, top rope,
-5, ..., 5, top rope,
-4, Špička, 5, top rope,
-27, Pavouk, 4, top rope, ťahal Martin
-26, Zuby Nehty, 5, on-sight,
-27, Pokrývačská, 5, top rope, ťahal Kubo
+20150419; Helfštýn; UIAA
+ref: Route Info; http://www.goat.cz/Lezeni/Olomoucko/_Guide/pdf/Helfstyn1.pdf
+ref: Route List; http://www.horosvaz.cz/skaly-skala-6391/
+První plotna - Okno; Diretissima; 3+; ; top rope;
+První plotna - Okno; ...; 5; ; top rope;
+První plotna - Okno; Špička; 5; ; top rope;
+První plotna - Okno; Pavouk; 4; flash; top rope; ťahal Martin
+První plotna - Okno; Zuby Nehty; 5; on-sight; prvolezec;
+První plotna - Okno; Pokrývačská; 5; flash; top rope; ťahal Kubo
+Druhá plotna - Bezejmenná; Vánoční; 4; flash; top rope; ťahal Martin
+Druhá plotna - Bezejmenná; Bezejmenná; 3; flash; top rope; ťahal Kubo
+Druhá plotna - Bezejmenná; Plotnou; 5+; on-sight; prvolezec;
 
-20150419, Helfštýn - Druhá plotna - Bezejmenná, UIAA
-ref: Route Info, http://www.goat.cz/Lezeni/Olomoucko/_Guide/pdf/Helfstyn1.pdf
-ref: Route List, http://www.horosvaz.cz/skaly-skala-6392/
-11, Vánoční, 4, top rope, ťahal Martin
-13, Bezejmenná, 3, top rope, ťahal Kubo
-12, Plotnou, 5+, on-sight,
+20150414; Babí Lom; UIAA
+ref: Route List; http://www.horosvaz.cz/skaly-skala-8109/
+Paraple; Varianta Kikina; 4+; on-sight; top rope;
+Paraple; Děvenka; 5-; on-sight; top rope;
+Paraple; Kniha; 4+; on-sight; top rope;
 
-20150414, Babí Lom - Paraple, UIAA
-ref: Route List, http://www.horosvaz.cz/skaly-skala-8109/
-5, Varianta Kikina, 4+, on-sight/top rope,
-6, Děvenka, 5-, on-sight/top rope,
-9, Kniha, 4+, on-sight/top rope,
+20150412; Vysočina - Čtyři Palice; UIAA
+ref: Route List; http://www.horosvaz.cz/skaly-skala-8981/
+Paličatá; Zásek (Symetrála); 3+; flash; druholezec; ťahal Michal Májsky
+Paličatá; Stratosféra; 4+; flash; druholezec; ťahal Michal Májsky
+Paličatá; Raketa; 4+; flash; druholezec; ťahal Michal Májsky
+Paličatá; Korsičan; 4+; flash; prvolezec;
 
-20150412, Vysočina - Čtyři Palice - Paličatá, UIAA
-ref: Route List, http://www.horosvaz.cz/skaly-skala-8981/
-13, Zásek (Symetrála), 3+, second, ťahal Michal Májsky
-12, Stratosféra, 4+, second, ťahal Michal Májsky
-11, Raketa, 4+, second, ťahal Michal Májsky
-7, Korsičan, 4+, flash,
+20150411; Vysočina; UIAA
+ref: Route List (Sokolí stěna); http://www.horosvaz.cz/skaly-skala-8880/
+ref: Route List (Šedá stěna); http://www.horosvaz.cz/skaly-skala-8947/
+Drátnik; Sokolí spára; 6+; all free; druholezec; ťahal Lájoš, s jedným odsadnutím
+Drátnik; Štrbina; 3+; on-sight; prvolezec;
 
-20150411, Vysočina - Drátnik, UIAA
-ref: Route List (Sokolí stěna), http://www.horosvaz.cz/skaly-skala-8880/
-ref: Route List (Šedá stěna), http://www.horosvaz.cz/skaly-skala-8947/
-12, Sokolí spára, 6+, second, ťahal Lájoš; s jedným odsadnutím
-24, Štrbina, 3+, on-sight,
-
-20150328, Rudice - Slza a Podhradí, UIAA
-ref: Route List, http://www.horosvaz.cz/skaly-skala-2526/
-14, Pilíř, 3, on-sight,
-15, Cestářská, 3-, top rope,
-6, Kout, 4+, top rope,
-9, Komín, 4, on-sight,
-21, Zlaťák, 5+, on-sight,
+20150328; Rudice; UIAA
+ref: Route List; http://www.horosvaz.cz/skaly-skala-2526/
+Slza a Podhradí; Pilíř; 3; on-sight; prvolezec;
+Slza a Podhradí; Cestářská; 3-; flash; top rope;
+Slza a Podhradí; Kout; 4+; all-free; top rope;
+Slza a Podhradí; Komín; 4; on-sight; prvolezec;
+Slza a Podhradí; Zlaťák; 5+; on-sight; prvolezec;

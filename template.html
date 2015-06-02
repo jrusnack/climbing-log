@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="./climbing-log.css" type="text/css" media="screen" />
   </head>
   <body>
-    <h1 class="main-header">Climbing Log</h1>
+    <h1 class="main-header">Lezecký denníček</h1>
     {% for table in data %}
     <table id="{{ table[0] }}" class="table table-condensed" >
       <caption>
@@ -17,17 +17,19 @@
         {% endfor %}
       </caption>
       <thead>
-        <col width="10%">
-        <col width="35%">
-        <col width="10%">
         <col width="15%">
+        <col width="25%">
+        <col width="10%">
+        <col width="10%">
+        <col width="10%">
         <col width="30%">
         <tr>
-          <th>Route #</th>
-          <th>Route Name</th>
-          <th>Grade</th>
-          <th>Ascend Type</th>
-          <th>Notes</th>
+          <th>Sektor</th>
+          <th>Názov cesty</th>
+          <th>Hodnotenie</th>
+          <th>Štýl</th>
+          <th>Istenie</th>
+          <th>Poznámky</th>
         </tr>
       </thead>
       <tbody>

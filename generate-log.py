@@ -44,24 +44,24 @@ def main():
         routes = []
 
         for line in entry.split('\n'):
-            if line.split(",")[0].isdigit() and len(line.split(",")[0]) == 8:
-                if line.count(",") != 2:
+            if line.split(";")[0].isdigit() and len(line.split(";")[0]) == 8:
+                if line.count(";") != 2:
                     print("ERROR: Invalid syntax! Could not parse:\n\n%s" % line)
                     sys.exit(1)
-                date, place, grading = line.split(",", 3)
+                date, place, grading = line.split(";", 3)
                 continue
 
             if line.startswith("ref:"):
-                if line.count(",") != 1:
+                if line.count(";") != 1:
                     print("ERROR: Invalid syntax! Could not parse:\n\n%s" % line)
                     sys.exit(1)
-                refs.append(line[4:].split(",", 2))
+                refs.append(line[4:].split(";", 2))
                 continue
 
-            if line.count(",") != 4:
+            if line.count(";") != 5:
                 print("ERROR: Invalid syntax! Could not parse:\n\n%s" % line)
                 sys.exit(1)
-            routes.append(line.split(",", 5))
+            routes.append(line.split(";", 6))
 
         if not routes:
             print("ERROR: Could not parse any routes from:\n\n%s" % entry)
@@ -81,6 +81,6 @@ def main():
 
     with open(out_file, "w") as f:
         f.write(rendered_html.encode("utf8"))
-        
+
 if __name__ == "__main__":
     main()
