@@ -15,7 +15,7 @@
 # - [route number];[route name];[route grade];[ascend type];[notes]
 
 20150706; Moravský kras - Skály v údolí Říčky; UIAA
-ref: Route List;
+ref: Route List; www.horosvaz.cz/skaly-skala-11707/
 ref: Guide; http://www.goat.cz/index.php?path=Lezeni_MoravskyKras_UdoliRicky_UdoliRicky
 U kříže; Varianta koutů; 5-; on-sight; prvolezec;
 U kříže; Levými kouty; 5-; on-sight; prvolezec;
