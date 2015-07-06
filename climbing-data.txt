@@ -14,22 +14,29 @@
 #  Route format:
 # - [route number];[route name];[route grade];[ascend type];[notes]
 
+20150706; Moravský kras - Skály v údolí Říčky; UIAA
+ref: Route List;
+ref: Guide; http://www.goat.cz/index.php?path=Lezeni_MoravskyKras_UdoliRicky_UdoliRicky
+U kříže; Varianta koutů; 5-; on-sight; prvolezec;
+U kříže; Levými kouty; 5-; on-sight; prvolezec;
+U kříže; Přímá šikmá; 5; flash; top rope;
+
 20150626; Vysoké Tatry - Chata pri Zelenom plese; UIAA
 ref: Route List; http://www.tatry.nfo.sk/stena.php?kod=10560722:%8Eeruchova-ve%9Ea-V%FDchodn%E1:2080
-Východná Žeruchová; Ľavý žľab (Bocek-Hofírek); IV; on-sight; prvolezec; 5 dĺžok, s Kubom a Mišom Májskym
+Východná Žeruchová; Ľavý žľab (Bocek-Hofírek); 4; on-sight; prvolezec; 5 dĺžok, s Kubom a Mišom Májskym
 
 20150625; Vysoké Tatry - Chata pri Zelenom plese; UIAA
 ref: Route List; http://www.tatry.nfo.sk/stena.php?kod=10560722:%8Eeruchova-ve%9Ea-V%FDchodn%E1:2080
-Východná Žeruchová; Puškášov pilier; III (V); flash; druholezec; ťahal Michan Nováček, 4 dĺžky + dolez súbehom
+Východná Žeruchová; Puškášov pilier; 3 (5); flash; druholezec; ťahal Michan Nováček, 4 dĺžky + dolez súbehom
 
 20150624; Vysoké Tatry - Chata pri Zelenom plese; UIAA
 ref: Route List; http://www.tatry.nfo.sk/stena.php?kod=01030617:%C8ierny-%9At%EDt:2434
-Čierny štít; Stanislawského depresiou; IV; flash; druholezec; ťahal Vláďa, 5 dĺžok
+Čierny štít; Stanislawského depresiou; 4; flash; druholezec; ťahal Vláďa, 5 dĺžok
 
 20150622; Vysoké Tatry - Chata pri Zelenom plese; UIAA
 ref: Route List; http://www.tatry.nfo.sk/stena.php?kod=10560722:%8Eeruchova-ve%9Ea-V%FDchodn%E1:2080
-Kozí štít; Fehér-Lehotský; V; flash; druholezec; ťahal Michan Nováček, 4 dĺžky + dolez súbehom
-Východná Žeruchová; Cesta cez knihu; V; flash; druholezec; ťahal Michan Nováček, 3 dĺžky
+Kozí štít; Fehér-Lehotský; 5; flash; druholezec; ťahal Michan Nováček, 4 dĺžky + dolez súbehom
+Východná Žeruchová; Cesta cez knihu; 5; flash; druholezec; ťahal Michan Nováček, 3 dĺžky
 
 20150531; Český Ráj - Suché skály; Saxon
 ref: Route List; http://www.horosvaz.cz/skaly-sektor-32/
