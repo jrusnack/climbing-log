@@ -14,6 +14,15 @@
 #  Route format:
 # - [route number];[route name];[route grade];[ascend type];[notes]
 
+20150718; Brno - Babí Lom; UIAA
+ref: Route List; http://www.horosvaz.cz/skaly-skala-12337/
+Paraple; Jura; 3; flash; druholezec; ťahal Kubo po vlastnom
+Paraple; Kniha; 4+; flash; top-rope;
+Paraple; Přes jeskyňku; 4; on-sight; prvolezec; v záverečnom previse dva dobré vklínence
+Paraple; Děvenka; 5-; flash; top-rope;
+Paraple; Varianta Kikina; 4+; flash; top-rope;
+Paraple; Eva; 5; flash; top-rope;
+
 20150706; Moravský kras - Skály v údolí Říčky; UIAA
 ref: Route List; http://www.horosvaz.cz/skaly-skala-11707/
 ref: Guide; http://www.goat.cz/index.php?path=Lezeni_MoravskyKras_UdoliRicky_UdoliRicky
