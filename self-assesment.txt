@@ -1,0 +1,360 @@
+
+Experience
+==========
+
+1) How long have you been climbing ?
+  1 - less than six months
+  2 - six to twelve months
+  3 - one to four years
+  4 - five to ten years
+  5 - more than ten years
+
+2) On average, how many days per month do you climb (both indoors and outdoors) ?
+  1 - one day or less
+  2 - two or three days
+  3 - four to eight days
+  4 - nine to twelve days
+  5 - more than twelve days
+
+3) How many different climbing areas and gyms have you visited in the last year ?
+  1 - just one
+  2 - two to four
+  3 - five to nine
+  4 - ten to fifteen
+  5 - more than fifteen
+
+4) How many of the following styles of climbing have you been active in over the last year: bouldering, gym climbing, sport climbing, follow trad climbs, leading trad climbs, big walls ?
+  1 - one or two
+  2 - three
+  3 - four
+  4 - five
+  5 - six
+
+5) How many of the following types of climbing have you engaged in over the last three months: slab climbing, face climbing, crack climbing, overhanging face climbing, pocket climbing, roofs ?
+  1 - one or two
+  2 - three
+  3 - four
+  4 - five
+  5 - six
+
+Analysis
+--------
+23-25: You are well on your way to mastery !
+20-22: Your experience is above average.
+15-19: Your experience is average.
+10-14: Your experience is limited or narrow in scope, but huge gains await you given a commitment to climb more often and explore new types of climbing.
+5-9: As a novice climber you possess tremendous potential to improve. A regular schedule of climbing and a willingness to stretch your  boundaries will yield rapid gains in ability.
+
+Evaluate your technical skills
+==============================
+
+1) My footwork and overall technique deteriorate during the hardest part of climb.
+  1 - almost always
+  2 - often
+  3 - about half the time
+  4 - occasionaly
+  5 - seldom or never
+
+2) Cracks, slabs, and roofs feel hard for the grade compared with a similarly graded face climb.
+  1 - almost always
+  2 - often
+  3 - about half the time
+  4 - occasionaly
+  5 - seldom or never
+
+3) I have difficulty finding midroute rest positions and shakeouts.
+  1 - almost always
+  2 - often
+  3 - about half the time
+  4 - occasionaly
+  5 - seldom or never
+
+4) On the typical climb, I feel like much of my body weight is hanging on my arms.
+  1 - almost always
+  2 - often
+  3 - about half the time
+  4 - occasionaly
+  5 - seldom or never
+
+5) On overhanging routes and roofs, I have difficulty finding the optimal body position or keeping my feet from cutting lose.
+  1 - almost always
+  2 - often
+  3 - about half the time
+  4 - occasionaly
+  5 - seldom or never
+
+Analysis
+--------
+23-25: You possess excellent technical skills !
+20-22: Your technical skills are above average.
+15-19: Your technical skills are near average; however, the next level is attainable given a focused effort to improve in weak areas.
+10-14: You possess some fundamental flaws in climbing technique. Make improving your technique a top priority. Consider employing a coach to provide technical instruction and tips for improvement.
+5-9: You are at the beginning of the learning curve. With a consistent schedule of climbing, you will see rapid gains in ability.
+
+Evaluate your mental skills
+===========================
+
+1) I visualize myself successfully climbing the route before I leave the ground.
+  1 - seldom or never
+  2 - occasionally
+  3 - about half the time
+  4 - often
+  5 - almost always
+
+2) I get anxious, tight, and hesitant as I climb into a crux sequences.
+  1 - almost always
+  2 - often
+  3 - about half the time
+  4 - occasionaly
+  5 - seldom or never
+
+3) I miss hidden holds or blow a known sequence.
+  1 - almost always
+  2 - often
+  3 - about half the time
+  4 - occasionaly
+  5 - seldom or never
+
+4) I make excuses for why I might fail on a route before I even begin to climb.
+  1 - almost always
+  2 - often
+  3 - about half the time
+  4 - occasionaly
+  5 - seldom or never
+
+5) When lead climbing a safe route, I push myself to the complete limit and, if I fall, I fall trying.
+  1 - seldom or never
+  2 - occasionally
+  3 - about half the time
+  4 - often
+  5 - almost always
+
+23-25: You possess excellent mental skills!
+20-22: Your mental skills are above average.
+15-19: Your mental skills are near average; however, significant gains are attainable given a commitment to mental training.
+10-14: Your limitied mental skills are an Achilles' heel that's sabotaging your climbing performance. Desire and discipline to improve in this area will yield ahuge breakthroughts in climbing ability.
+5-9: Your weak mental skills will improve rapidly given a regular schedule of climbing and willingness to stretch your boundaries and challenge your fears.
+
+Evaluate your level of general conditioning
+===========================================
+
+1) How many pounds (body fat or excessively bulky muscles) do you estimate you are from your ideal climbing weight?
+  1 - more than twenty
+  2 - ten to twenty
+  3 - five to ten
+  4 - just a few
+  5 - zero
+
+2) How far could you jog (modest-paced steady running) without stopping ?
+  1 - less than 0.5 mile
+  2 - 0.5 - 1 mile
+  3 - 1 - 2 miles
+  4 - 3 - 5 miles
+  5 - more than 5 miles
+
+3) How many pull-ups can you do in a single set ?
+  1 - women: one or none; men: fewer than five
+  2 - women: two to four; men: five to nine
+  3 - women: five to nine; men: ten to nineteen
+  4 - women: ten to twenty; men: twenty to thirty
+  5 - women: more than twenty; men: more than thirty
+
+4) How many push-ups can you do in a single set ?
+  1 - women: two or fewer; men: fewer than five
+  2 - women: three to six; men: five to fifteen
+  3 - women: seven to fifteen; men: sixteen to twenty-five
+  4 - women: sixteen to twenty-five; men: twenty-six to forty
+  5 - women: more than twenty-five; men: more than forty
+
+5) How many abdominal crunches can you do in a single set ?
+  1 - fewer than ten
+  2 - ten to twenty
+  3 - twenty-one to forty-nine
+  4 - fifty to seventy-five
+  5 - more than seventy-five
+
+Analysis
+--------
+23-25: You possess excellent general conditioning !
+20-22: Your general conditioning is above average.
+15-19: Your general conditioning is near average. Improvement in this area will facilitate better movement and improved stamina and reduce injury risk.
+10-14: Your general conditioning is below average and is undoubtedly limiting your climbing ability.
+5-9: You possess poor general conditioning. It's paramount that you improve in this area before engaging in a regular schedule of climbing.
+
+Evaluate your sport-specific conditioning
+=========================================
+
+1) On overhanging routes with large holds, I pump out quickly and need to hang on the rope.
+  1 - almost always
+  2 - often
+  3 - about half the time
+  4 - occasionaly
+  5 - seldom or never
+
+2) I have difficulty hanging on small, necessary-to-use holds.
+  1 - almost always
+  2 - often
+  3 - about half the time
+  4 - occasionaly
+  5 - seldom or never
+
+3) I find it diffucult to hold a lock-off with one arm when I let go to advance the other hand.
+  1 - almost always
+  2 - often
+  3 - about half the time
+  4 - occasionaly
+  5 - seldom or never
+
+4) Given a marginal midclimb rest, I can shake out and recover enough to complete the route.
+  1 - seldom or never
+  2 - occasionally
+  3 - about half the time
+  4 - often
+  5 - almost always
+
+5) My maximum bouldering ability is:
+  1 - V0 or V1
+  2 - V2 to V3
+  3 - V4 to V5
+  4 - V6 to V7
+  5 - V8 or above
+
+23-25: You possess excellent sport-specific conditioning !
+20-22: Your sport-specific conditioning is above average.
+15-19: Your sport-specific conditioning is near average; however, a program of targeted training will quickly elevate you to the next level.
+10-14: Your sport-specific conditioning is a major contraint in climbing performance. If you are an intermediate or advanced climber, vow to increase your commitment to this type of training. If you are a novice, however, continue general conditioning for another year or so before beginning sport-specific conditioning.
+5-9 Your possess a poor level of conditioning. Engage in a general training program for at least one year before initiating a sport-specific conditioning program.
+
+Evaluate your injury risk
+=========================
+
+1) I perform a warm-up activity and some stretching before climbing or training.
+  1 - seldom or never
+  2 - occasionally
+  3 - about half the time
+  4 - often
+  5 - almost always
+
+2) I climb hard on three or more consecutive days.
+  1 - every week
+  2 - often
+  3 - a couple times per month
+  4 - once per month
+  5 - seldom or never
+
+3) When climbing I experience elbow, shoulder or finger pain.
+  1 - almost always
+  2 - often
+  3 - occasionally
+  4 - infrequently
+  5 - never
+
+4) I engage in regular training of the antagonist push muscles.
+  1 - never
+  2 - infrequently
+  3 - a few times a month
+  4 - once or twice a week
+  5 - twice a week, religiously
+
+5) I stop climbing or end a workout prematurely if I experience unusual joint or tendon pain.
+  1 - never
+  2 - infrequently
+  3 - about half the time
+  4 - often
+  5 - always
+
+23-25: Congratulations: Your injury awareness and risk mitigation practices make you less susceptible than average to a climbing injury.
+20-22: Kudos to you, too, for doing what it takes to reduce injury risk.
+15-19: Your are at near-average risk of a climbing injury. Just a small commitment to warm-up activities, planned recovery, and antagonist muscles training will significantly lower your risk.
+10-14: You are at above-average risk for overuse or acute climbing injuries. Strive to be more proactive with injury prevention.
+5-9: You are at high risk for an injury while training or climbing. Review each question to determine what actions you can take to lower your risk.
+
+Evaluate your nutritional habits
+================================
+
+1) How often do you eat breakfast ?
+  1 - never
+  2 - weekends only
+  3 - three days a week
+  4 - five days a week
+  5 - every day
+
+2) How often do you eat fast food or fried food ?
+  1 - four or more days per week
+  2 - two to three days per week
+  3 - once a week
+  4 - once or twice per month
+  5 - less than once a month
+
+3) On average, how soon after a workout or the end of your climbing day do you consume some carbohydrate and protein ?
+  1 - more than three hours
+  2 - two to three hours
+  3 - once to two hours
+  4 - thirty minutes to one hours
+  5 - within thirty minutes
+
+4) How many servings of fruit and vegetables do you consume per day ?
+  1 - zero or one
+  2 - two
+  3 - three
+  4 - four
+  5 - five or more
+
+5) How often do you plan out your meals ahead of time for the purpose of eating for performance and optimal recovery ?
+  1 - seldom or never
+  2 - once per week
+  3 - two or three dyas per week
+  4 - four to six days per week
+  5 - every day
+
+23-25: Your possess excellent nutritional habits !
+20-22: Your nutritional habits are above average.
+15-19: Your nutition is near average, but improving your habits will boots your energy, stamina and recovery times.
+10-14: Your diet is below average. Strive to eliminate this contraint on your climbing performance and recover ability by improving dietary surveillance throughout the week.
+5-9: Your poor nutritional habits are both a health risk and a constraint on climbing performance. Make it a priority to make permanent changes in this area - it will improve your quality of life as well as your climbing.
+
+Evaluate your lifestyle and discipline
+======================================
+
+1) How many days per week do you engage in a physical activity such as climbing, training, or another sport ?
+  1 - one
+  2 - two
+  3 - three
+  4 - four
+  5 - five
+
+2) On average, how many hours sleep do you get each night ?
+  1 - less than five
+  2 - five to six
+  3 - six to seven
+  4 - seven to eight
+  5 - more than eight
+
+3) How often do you pig out eating and drinking without little restraint?
+  1 - three or more days per week
+  2 - twice per week
+  3 - once per week
+  4 - once or twice per month
+  5 - seldom or never
+
+4) Do you smoke ?
+  1 - more than a pack a day
+  2 - less than a pack a day
+  3 - only socially
+  4 - I quit
+  5 - I`ve never smoked
+
+5) When you set goals or begin a workout program, how often do you follow through to successful completion ?
+  1 - seldom
+  2 - occasionally
+  3 - about half the time
+  4 - often
+  5 - almost always
+
+23-25: Your are highly disciplined individual and well on your way to mastery !
+20-22: Your discipline is above average and real asset to your climbing.
+15-19: Your discipline is near average. Try to identify one or two areas in which you can strive for improvement.
+10-14: Your below-average discipline is a contraint on your climbing. If you are serious about climbing better, resolve to adjust your lifestyle and subordinate less important activities.
+5-9: Your lifestyle and lack of discipline are difinitely holding you back. Determine your priorities, and make the lifestyle changes needed to elevate your score to 15 or above.
+
+Review the questions on which you scored 3 or less, then set a specific goal for improvement in each area. Write down what actions you plan to take and a time frame for attaining this goal.
