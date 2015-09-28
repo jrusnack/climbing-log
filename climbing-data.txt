@@ -14,6 +14,16 @@
 #  Route format:
 # - [route number];[route name];[route grade];[ascend type];[notes]
 
+20150927; Vysočina - Čtyři Palice; UIAA
+ref: Route List; http://www.horosvaz.cz/skaly-skala-8981/
+ref: Route Info; http://www.goat.cz/index.php?path=Lezeni_ZdarskeVrchy_CtyriPalice_CtyriPalice
+Paličatá; Korso; 3; flash; druholezec; ťahal Martin
+Paličatá; Korsičan; 4; flash; prvolezec;
+Paličatá; Korsika; 3; flash; druholezec; ťahal Kubo 
+Paličatá; Raketa; 4+; flash; prvolezec;
+Paličatá; Bašta; 4+; flash; druholezec; ťahal Kubo
+Paličatá; Zásek (Symetrála); 3+; flash; druholezec; ťahal Martin
+
 20150718; Brno - Babí Lom; UIAA
 ref: Route List; http://www.horosvaz.cz/skaly-skala-12337/
 Paraple; Jura; 3; flash; druholezec; ťahal Kubo po vlastnom
@@ -128,10 +138,11 @@ Paraple; Kniha; 4+; on-sight; top rope;
 
 20150412; Vysočina - Čtyři Palice; UIAA
 ref: Route List; http://www.horosvaz.cz/skaly-skala-8981/
+ref: Route Info; http://www.goat.cz/index.php?path=Lezeni_ZdarskeVrchy_CtyriPalice_CtyriPalice
 Paličatá; Zásek (Symetrála); 3+; flash; druholezec; ťahal Michal Májsky
 Paličatá; Stratosféra; 4+; flash; druholezec; ťahal Michal Májsky
 Paličatá; Raketa; 4+; flash; druholezec; ťahal Michal Májsky
-Paličatá; Korsičan; 4+; flash; prvolezec;
+Paličatá; Korsičan; 4; flash; prvolezec;
 
 20150411; Vysočina - Drátnik; UIAA
 ref: Route List (Sokolí stěna); http://www.horosvaz.cz/skaly-skala-8880/
