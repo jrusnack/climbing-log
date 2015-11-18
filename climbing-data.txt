@@ -14,6 +14,14 @@
 #  Route format:
 # - [route number];[route name];[route grade];[ascend type];[notes]
 
+20151118; Moravský Kras - Sloup; UIAA
+ref: Route List; http://www.horosvaz.cz/skaly-skala-4270/
+ref: Route Info; http://www.goat.cz/Lezeni/MoravskyKras/_Guide/pdf/MoravskyKras2.pdf
+Hřebenáč; Normálka; 4; flash; prvolezec;
+Hřebenáč; Cesta cvoků; 4+; on-sight; prvolezec;
+Hřebenáč; Gravitační; 5; flash; top-rope; naťahal som top rope z Cesty cvoků
+Hřebenáč; Hranou; 4+; flash; top-rope; lezenie v daždi
+
 20150927; Vysočina - Čtyři Palice; UIAA
 ref: Route List; http://www.horosvaz.cz/skaly-skala-8981/
 ref: Route Info; http://www.goat.cz/index.php?path=Lezeni_ZdarskeVrchy_CtyriPalice_CtyriPalice
