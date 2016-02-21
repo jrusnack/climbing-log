@@ -14,6 +14,10 @@
 #  Route format:
 # - [route number];[route name];[route grade];[ascend type];[notes]
 
+20160214; Moravský Kras - Okolí Býčí skály; UIAA
+ref: Route List; http://www.horosvaz.cz/skaly-skala-1245/
+Kostelík; Notre Dame; 4; on-sight; prvolezec; 
+
 20151118; Moravský Kras - Sloup; UIAA
 ref: Route List; http://www.horosvaz.cz/skaly-skala-4270/
 ref: Route Info; http://www.goat.cz/Lezeni/MoravskyKras/_Guide/pdf/MoravskyKras2.pdf
