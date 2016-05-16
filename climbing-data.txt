@@ -14,6 +14,35 @@
 #  Route format:
 # - [route number];[route name];[route grade];[ascend type];[notes]
 
+20160514; Vysočina - Drátník; UIAA
+ref: Route List (Sokolí stěna); http://www.horosvaz.cz/skaly-skala-8880/
+Indiánská věž; Trpaslík; 2; on-sight; prvolezec;
+Sokolí stěna; Galérka; 3; on-sight; prvolezec;
+
+20160514; Vysočina - Malínská skála; UIAA
+Srnčí věž; Atlas; 3+; on-sight; prvolezec; 
+
+20160514; Vysočina - Zkamenělý zámek; UIAA
+Hlava; Sluneční spára; 2; on-sight; prvolezec;
+
+20160514; Vysočina - Milovské perníčky; UIAA
+Smrková věž; Smrkový komín (Zelený komín); 3; on-sight; prvolezec;
+
+20160514; Vysočina - Čtyři Palice; UIAA
+ref: Route List; http://www.horosvaz.cz/skaly-skala-8981/
+ref: Route Info; http://www.goat.cz/index.php?path=Lezeni_ZdarskeVrchy_CtyriPalice_CtyriPalice
+ref: lezec.cz; http://www.lezec.cz/cesty.php?cobl=c87479f8692050616c696365h
+Paličatá; Korso; 3; flash; druholezec; ťahal Kubo
+
+20160514; Vysočina - Devět skal; UIAA
+Fryšavský hřeben - Malá věž; Koutem; 2; on-sight; sólo;
+Fryšavský hřeben - Malá věž; Smetáček; 3; on-sight; prvolezec;
+Hlavní hřeben - Královský zámek; Rohový komín (Rychlík); 3+; flash; prvolezec;
+Křižánecký hřeben - Trůn; Manželská; 2; on-sight; prvolezec;
+
+20160514; Vysočina - Pasecké skály; UIAA
+Pecen; Sejr; 2; on-sight; prvolezec;
+
 20160214; Moravský Kras - Okolí Býčí skály; UIAA
 ref: Route List; http://www.horosvaz.cz/skaly-skala-1245/
 Kostelík; Notre Dame; 4; on-sight; prvolezec; 
