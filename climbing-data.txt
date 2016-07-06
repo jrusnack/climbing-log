@@ -14,6 +14,27 @@
 #  Route format:
 # - [route number];[route name];[route grade];[ascend type];[notes]
 
+20160723; Vysoké Tatry - Chata pri Zelenom plese; UIAA
+ref: Route List; http://www.tatry.nfo.sk/stena.php?kod=10560722:%8Eeruchova-ve%9Ea-V%FDchodn%E1:2080
+Východná Žeruchová; Cesta cez knihu; 5; flash; druholezec; ťahal Kubo
+
+20160721; Vysoké Tatry - Chata pri Zelenom plese; UIAA
+ref: Route Info; http://www.horydoly.cz/horolezci/klasicky-karbunkulovy-hreben.html
+Karbunkulový hrebeň; Karbunkulový hrebeň; 2; on-sight; prvolezec; liezli sme súbehom
+
+20160720; Vysoké Tatry - Chata pri Zelenom plese; UIAA
+Jahňací štít; hrebeňom z Kopského sedla; 2; on-sight; prvolezec; liezli sme súbehom
+
+20160719; Vysoké Tatry - Chata pri Zelenom plese; UIAA
+ref: Route List; http://www.tatry.nfo.sk/stena.php?kod=02610816:Jastrabia-ve%9Ea:2137
+Jastrabia veža; Stará cesta (Illner-Rülke); 3; flash; druholezec; tahal Kubo
+
+20160605; Brno - Lom v Komíne; UIAA
+ref: Guide; http://www.nadzemi.cz/data/uploadHTML/images/P1100687.JPG
+Hart; Komíňákům; 5; flash; prvolezec;
+Hart; Plotnou; 4; flash; prvolezec;
+Hart; Hartpes; 6+; on-sight; prvolezec;
+
 20160514; Vysočina - Drátník; UIAA
 ref: Route List (Sokolí stěna); http://www.horosvaz.cz/skaly-skala-8880/
 Indiánská věž; Trpaslík; 2; on-sight; prvolezec;
