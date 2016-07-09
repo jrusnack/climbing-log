@@ -14,18 +14,24 @@
 #  Route format:
 # - [route number];[route name];[route grade];[ascend type];[notes]
 
-20160723; Vysoké Tatry - Chata pri Zelenom plese; UIAA
+20160708; Moravský kras - Josefovské údolí - okolí Býčí skály; UIAA
+ref: Route list; http://www.horosvaz.cz/skaly-skala-2525/
+Krkavčí skála; Kubáskova cesta; 5+; - ; druholezec; ťahal Kubo, doliezli sme len po prvý štand a ďalej to už nešlo
+Krkavčí skála; Korzo; 5+; flash; druholezec; ťahal Kubo
+Krkavčí skála; Mechový kout; 5; flash ; druholezec; ťahal Kubo
+
+20160623; Vysoké Tatry - Chata pri Zelenom plese; UIAA
 ref: Route List; http://www.tatry.nfo.sk/stena.php?kod=10560722:%8Eeruchova-ve%9Ea-V%FDchodn%E1:2080
 Východná Žeruchová; Cesta cez knihu; 5; flash; druholezec; ťahal Kubo
 
-20160721; Vysoké Tatry - Chata pri Zelenom plese; UIAA
+20160621; Vysoké Tatry - Chata pri Zelenom plese; UIAA
 ref: Route Info; http://www.horydoly.cz/horolezci/klasicky-karbunkulovy-hreben.html
 Karbunkulový hrebeň; Karbunkulový hrebeň; 2; on-sight; prvolezec; liezli sme súbehom
 
-20160720; Vysoké Tatry - Chata pri Zelenom plese; UIAA
+20160620; Vysoké Tatry - Chata pri Zelenom plese; UIAA
 Jahňací štít; hrebeňom z Kopského sedla; 2; on-sight; prvolezec; liezli sme súbehom
 
-20160719; Vysoké Tatry - Chata pri Zelenom plese; UIAA
+20160619; Vysoké Tatry - Chata pri Zelenom plese; UIAA
 ref: Route List; http://www.tatry.nfo.sk/stena.php?kod=02610816:Jastrabia-ve%9Ea:2137
 Jastrabia veža; Stará cesta (Illner-Rülke); 3; flash; druholezec; tahal Kubo
 
@@ -64,7 +70,7 @@ Křižánecký hřeben - Trůn; Manželská; 2; on-sight; prvolezec;
 20160514; Vysočina - Pasecké skály; UIAA
 Pecen; Sejr; 2; on-sight; prvolezec;
 
-20160214; Moravský Kras - Okolí Býčí skály; UIAA
+20160214; Moravský Kras - Josefovské údolí - okolí Býčí skály; UIAA
 ref: Route List; http://www.horosvaz.cz/skaly-skala-1245/
 Kostelík; Notre Dame; 4; on-sight; prvolezec; 
 
