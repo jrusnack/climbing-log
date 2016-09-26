@@ -14,6 +14,30 @@
 #  Route format:
 # - [route number];[route name];[route grade];[ascend type];[notes]
 
+20160925; Helfštýn; UIAA
+ref: Route Info; http://www.goat.cz/Lezeni/Olomoucko/_Guide/pdf/Helfstyn1.pdf
+ref: Route List; http://www.horosvaz.cz/skaly-skala-6391/
+Třetí plotna - Odmítavá; Hříchy mládí; 5; flash; top-rope; ťahal Martin
+Třetí plotna - Odmítavá; Ježíšek; 5; flash; prvolezec; predo mnou to liezol Martin tiež na prvom
+Třetí plotna - Odmítavá; Ptačí; 5; on-sight; prvolezec; 
+Třetí plotna - Odmítavá; Odmítavá; 7-; all-free; top-rope; dvakrát mi ušla ľavá lezečka, na ktorej sa mi otvára hrana :(
+Čtvrtá plotna - Matterhornek; Matterhornek; 6; flash; top-rope; ťahal Kubo
+
+20160823; Berchtesgadener Alpen; UIAA
+Hoher Göll; Jubilaumsweg; 6-; flash; druholezec; ťahal Kubo
+
+20160824; Berchtesgadener Alpen; UIAA
+Schärtenspitze; Logic Line; 4+; on-sight; prvolezec; s Martinom a Kubom lezenie na rýchlosť
+
+20160825; Berchtesgadener Alpen; UIAA
+Berchtesgadener Hochthron/Gamsalmkopf; Doriweg; 5+; flash; druholezec; ťahal Martin, brali sme Radima
+
+20160813; Vysoké Tatry; UIAA
+Žabí kôň; Východný hrebeň; 3; flash; druholezec; ťahal Martin, brali sme aj Dušana
+
+20160814; Vysoké Tatry; UIAA
+Volia veža; JV rebro; 3; on-sight; prvolezec; liezli sme s Martinom na súbeh, až úplne zdola (nie z rampy)
+
 20160708; Moravský kras - Josefovské údolí - okolí Býčí skály; UIAA
 ref: Route list; http://www.horosvaz.cz/skaly-skala-2525/
 Krkavčí skála; Kubáskova cesta; 5+; - ; druholezec; ťahal Kubo, doliezli sme len po prvý štand a ďalej to už nešlo
