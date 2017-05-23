@@ -14,12 +14,39 @@
 #  Route format:
 # - [route number];[route name];[route grade];[ascend type];[notes]
 
+20170520; Peilstein; UIAA
+Sektor A; A5 Rechter SO-Riss; 3; flash; ?;
+Sektor A; A6 Direkte SO-Kante; 5; flash; ?;
+Sektor A; A7 SO-Kante; 4; flash; ?;
+Sektor A; A18 Westkante; 4-; flash; ?;
+Sektor A; A19 SW-Wand; 5; flash; ?;
+Sektor A; A20 Rosakante; 5; flash; ?;
+Sektor A; A23 NW-Kamin; 4; flash; ?;
+Sektor B; B10 Mausekante; 3; flash; ?;
+Sektor B; B41 Old Deuteronomy; 3; flash; ?;
+Sektor B; B42 Macavity; 5; flash; ?;
+Sektor B; B44 Mistoffeless; 4+; flash; ?;
+Sektor E; NW-Verschneidung; 4-; flash; ?;
+Sektor G; G4 Wanderfreundeweg; 4; flash; ?;
+Sektor M; M34 Schimpf; 3+; flash; ?;
+Sektor T; T20 Inline; 4; flash; ?;
+Sektor V; V2 Kohlsprossenvariante; 4; flash; ?;
+Sektor V; V3 Kohlzwergerlsteig; 4-; flash; ?;
+
+20170520; Thalhofergrat; UIAA
+B Sudwestwand; Seitensprung; 4+; flash; ?;
+G Trinkratzahn; Skorpiongrat; 2+; flash; ?;
+H Zentrale Ostwand; Herbstnacht; 5-; flash; ?;
+H Zentrale Ostwand; O jemine des ist nett sche; 4; flash; ?;
+H Zentrale Ostwand; Rauber Hotzenplotz; 4+; flash; ?;
+H Zentrale Ostwand; ?; 5-; flash; ?; cesta pri rauber hotzenplotz, ale nezapisali sme si nazov zo sprievodcu
+
 20160925; Helfštýn; UIAA
 ref: Route Info; http://www.goat.cz/Lezeni/Olomoucko/_Guide/pdf/Helfstyn1.pdf
 ref: Route List; http://www.horosvaz.cz/skaly-skala-6391/
 Třetí plotna - Odmítavá; Hříchy mládí; 5; flash; top-rope; ťahal Martin
 Třetí plotna - Odmítavá; Ježíšek; 5; flash; prvolezec; predo mnou to liezol Martin tiež na prvom
-Třetí plotna - Odmítavá; Ptačí; 5; on-sight; prvolezec; 
+Třetí plotna - Odmítavá; Ptačí; 5; on-sight; prvolezec;
 Třetí plotna - Odmítavá; Odmítavá; 7-; all-free; top-rope; dvakrát mi ušla ľavá lezečka, na ktorej sa mi otvára hrana :(
 Čtvrtá plotna - Matterhornek; Matterhornek; 6; flash; top-rope; ťahal Kubo
 
@@ -71,7 +98,7 @@ Indiánská věž; Trpaslík; 2; on-sight; prvolezec;
 Sokolí stěna; Galérka; 3; on-sight; prvolezec;
 
 20160514; Vysočina - Malínská skála; UIAA
-Srnčí věž; Atlas; 3+; on-sight; prvolezec; 
+Srnčí věž; Atlas; 3+; on-sight; prvolezec;
 
 20160514; Vysočina - Zkamenělý zámek; UIAA
 Hlava; Sluneční spára; 2; on-sight; prvolezec;
@@ -96,7 +123,7 @@ Pecen; Sejr; 2; on-sight; prvolezec;
 
 20160214; Moravský Kras - Josefovské údolí - okolí Býčí skály; UIAA
 ref: Route List; http://www.horosvaz.cz/skaly-skala-1245/
-Kostelík; Notre Dame; 4; on-sight; prvolezec; 
+Kostelík; Notre Dame; 4; on-sight; prvolezec;
 
 20151118; Moravský Kras - Sloup; UIAA
 ref: Route List; http://www.horosvaz.cz/skaly-skala-4270/
@@ -112,7 +139,7 @@ ref: Route Info; http://www.goat.cz/index.php?path=Lezeni_ZdarskeVrchy_CtyriPali
 ref: lezec.cz; http://www.lezec.cz/cesty.php?cobl=c87479f8692050616c696365h
 Paličatá; Korso; 3; flash; druholezec; ťahal Martin
 Paličatá; Korsičan; 4 (skôr 5-); flash; prvolezec;
-Paličatá; Korsika; 3; flash; druholezec; ťahal Kubo 
+Paličatá; Korsika; 3; flash; druholezec; ťahal Kubo
 Paličatá; Raketa; 4+ (skôr 5); flash; prvolezec;
 Paličatá; Bašta; 4+ (skôr 5-); flash; druholezec; ťahal Kubo
 Paličatá; Zásek (Symetrála); 3+; flash; druholezec; ťahal Martin
