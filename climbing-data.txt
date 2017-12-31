@@ -14,6 +14,9 @@
 #  Route format:
 # - [route number];[route name];[route grade];[ascend type];[notes]
 
+20170611; Vysoké Tatry; UIAA
+Sektor Volia veža; JV Rebro; 3; flash; druholezec; ťahal Kubo
+
 20170520; Peilstein; UIAA
 Sektor A; A5 Rechter SO-Riss; 3; flash; ?;
 Sektor A; A6 Direkte SO-Kante; 5; flash; ?;
