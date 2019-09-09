@@ -304,3 +304,4 @@ Slza a Podhradí; Cestářská; 3-; flash; top rope;
 Slza a Podhradí; Kout; 4+; all-free; top rope;
 Slza a Podhradí; Komín; 4; on-sight; prvolezec;
 Slza a Podhradí; Zlaťák; 5+; on-sight; prvolezec;
+
