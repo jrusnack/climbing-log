@@ -14,9 +14,6 @@
 #  Route format:
 # - [route number];[route name];[route grade];[ascend type];[notes]
 # Dratnik s Radimom
-# Lomnicak
-# Gerlach
-# Volia veza s kubom a Martinom
 
 20200802; Vysoké Tatry; UIAA
 Javorový štít; Rebrom Kele-Šuna; 5; on-sight; prvolezec; s Radimom, dolu sme zlanili
@@ -25,6 +22,12 @@ Javorový štít; Rebrom Kele-Šuna; 5; on-sight; prvolezec; s Radimom, dolu sme
 Žabí kôň; Východný hrebeň; 3; flash; druholezec; ťahal Radim
 Volia veža; JV rebro; 3; flash; prvolezec; na súbeh s Radimom
 Volia veža; Štáflovka; 5; flash; druholezec; ťahal Radim
+
+20200728; Vysoké Tatry; UIAA
+Lomnický štít; Jordánova cesta; ?; ;s horským vodcom; s Naty
+
+20180704; Vysoké Tatry; UIAA
+Gerlachovský štít; normálka; ?; ; s horským vodcom; s Naty
 
 20180429; Kaľamárka - Vrchné skaly; UIAA
 Sektor V; 166 Lukyho rady; 4+; flash; prvolezec;
